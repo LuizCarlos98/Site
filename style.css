@@ -58,7 +58,7 @@ header {
 
 #links {
   display: block;
-  padding: 9px 18px;
+  padding: 9px 10px;
 }
 
 #links>a {
@@ -94,7 +94,7 @@ main>#principal {
   font-family: 'Android';
   font-weight: normal;
   text-align: start;
-  text-indent: 18px;
+  text-indent: 23px;
   padding-top: 18px;
   padding-bottom: 10px;
 
